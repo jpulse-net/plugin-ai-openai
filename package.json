@@ -3,12 +3,18 @@
     "version": "1.0.0",
     "type": "module",
     "description": "OpenAI provider plugin for the jPulse AI agent",
-    "keywords": ["jpulse", "jpulse-plugin", "ai", "openai", "gpt"],
+    "keywords": [
+        "jpulse",
+        "jpulse-plugin",
+        "ai",
+        "openai",
+        "gpt"
+    ],
     "author": "jPulse Team <team@jpulse.net>",
     "license": "BSL-1.1",
     "repository": {
         "type": "git",
-        "url": "https://github.com/jpulse-net/plugin-ai-openai.git"
+        "url": "git+https://github.com/jpulse-net/plugin-ai-openai.git"
     },
     "publishConfig": {
         "registry": "https://npm.pkg.github.com",
